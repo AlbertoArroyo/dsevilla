@@ -1,0 +1,9 @@
+aplicación: dsevilla-236222 
+runtime: php55 
+api_version: 1 
+versión: 1 
+
+controladores:
+
+- url: /.* 
+script: index.php
