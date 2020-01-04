@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 // $config['base_url'] = 'http://localhost:8080/dsevillajr/';
-$config['base_url'] = 'http://localhost/dsevilla/';
+$config['base_url'] = 'http://localhost/dsevilla/'; // perfecto
 /*
 |--------------------------------------------------------------------------
 | Index File
